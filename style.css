@@ -1,0 +1,44 @@
+* {
+  background-color: rgb(45, 143, 45);
+  padding: 5px;
+  margin: auto;
+  text-align: center;
+  font-family: cursive;
+}
+h1 {
+  font-size: 60px;
+  color: goldenrod;
+  padding-bottom: 80px;
+}
+
+#messege-el {
+  color: white;
+  padding-bottom: 20px;
+  font-size: 50px;
+  font-style: italic;
+}
+
+p {
+  font-style: normal;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
+}
+
+button {
+  cursor: pointer;
+  color: white;
+  background-color: gold;
+  font-family: cursive;
+  font-size: 30px;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 5px;
+}
+
+button:hover {
+  transition: 0.7s;
+  color: red;
+  background-color: lightgreen;
+}
